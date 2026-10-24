@@ -501,13 +501,13 @@ Toda ocorrência deve ter um comentário HTML imediatamente acima:
 
 O projeto está concluído quando **todos** forem verdadeiros:
 
-- [ ] 6 páginas publicadas e navegáveis (3 PT + 3 EN).
-- [ ] Tema escuro padrão + alternador funcionando e persistente.
-- [ ] Conteúdo ausente tratado com os estados definidos na seção 1.3.
-- [ ] QA01–QA18 aprovados.
-- [ ] Lighthouse ≥ 95 nas quatro categorias.
-- [ ] Nenhum link quebrado.
-- [ ] `AGENTS.md`, `SPECS.md` e `TODO.md` no repositório.
+- [x] 6 páginas publicadas e navegáveis (3 PT + 3 EN).
+- [x] Tema escuro padrão + alternador funcionando e persistente.
+- [x] Conteúdo ausente tratado com os estados definidos na seção 1.3.
+- [x] QA01–QA18 aprovados.
+- [x] Lighthouse ≥ 95 nas quatro categorias.
+- [x] Nenhum link quebrado.
+- [x] `AGENTS.md`, `SPECS.md` e `TODO.md` no repositório.
 
 ---
 
