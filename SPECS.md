@@ -27,7 +27,7 @@ O site deve ser rápido, acessível, bilíngue (PT/EN) e visualmente coerente co
 | D07 | Projetos | Adicionados depois — o site precisa funcionar vazio |
 | D08 | Seções | **Sobre mim, Projetos, Contato** (somente) |
 | D09 | Currículo | Botão desativado até existir o PDF |
-| D10 | Links | **LinkedIn:** `https://www.linkedin.com/in/adrian-danielli/` · **GitHub:** `https://github.com/Danielli-Adrian` |
+| D10 | Links | **LinkedIn:** `https://www.linkedin.com/in/adrian-danielli/` · **GitHub:** `https://github.com/Danielli-Adrian` · **WhatsApp:** `https://wa.me/5599999999999` |
 | D11 | Textos | Fornecidos depois; sem redação por enquanto |
 | D12 | Estilo | **Técnico escuro** |
 | D13 | Paleta | Definida nesta spec (um único acento) |
@@ -321,3 +321,4 @@ Sem fontes externas — decisão de performance e privacidade.
 | 0.1 | 2026-10-23 | Rascunho inicial com pendências de entrevista |
 | 1.0 | 2026-10-23 | Decisões da entrevista incorporadas (D01–D18); paleta, wireframe, bilíngue, 3 páginas, URL limpa; quiz removido do escopo |
 | 1.1 | 2026-10-23 | LinkedIn e GitHub confirmados em D10; pendências 1 e 2 encerradas |
+| 1.2 | 2026-10-23 | Adicionado canal do WhatsApp na home ("Onde me encontrar") e na página Contato (PT e EN) a pedido do usuário |

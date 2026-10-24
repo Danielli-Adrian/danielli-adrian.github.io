@@ -451,7 +451,7 @@ a:hover {
 }
 
 .links__grid,
-.grade-contato { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.grade-contato { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 
 .grade-projetos { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 
@@ -582,6 +582,8 @@ a:hover {
   .terminal { max-width: 520px; }
   .sobre__grid { grid-template-columns: 1fr; }
   .foto-placeholder { max-width: 260px; margin-inline: 0; }
+  .links__grid,
+  .grade-contato { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
 }
 
 @media (max-width: 767px) {
