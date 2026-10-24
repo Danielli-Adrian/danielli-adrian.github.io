@@ -29,8 +29,8 @@ O site deve ser rápido, acessível, bilíngue (PT/EN) e visualmente coerente co
 | D09 | Currículo | Botão desativado até existir o PDF |
 | D10 | Links | **LinkedIn:** `https://www.linkedin.com/in/adrian-danielli/` · **GitHub:** `https://github.com/Danielli-Adrian` · **WhatsApp:** `https://wa.me/5599999999999` |
 | D11 | Textos | Fornecidos depois; sem redação por enquanto |
-| D12 | Estilo | **Técnico escuro** |
-| D13 | Paleta | Definida nesta spec (um único acento) |
+| D12 | Estilo | **Técnico vibrante e criativo** (gradiente esmeralda/ciano, mesh glow e grid sutil) |
+| D13 | Paleta | **Esmeralda tech (`#3DDC97`) + Ciano elétrico (`#00E5FF`)**, fundo escuro com glow |
 | D14 | Tema | Escuro padrão + alternador claro/escuro |
 | D15 | Idioma | **Bilíngue PT-BR + EN** |
 | D16 | Estrutura | **Multipágina: 3 páginas** |
@@ -322,3 +322,4 @@ Sem fontes externas — decisão de performance e privacidade.
 | 1.0 | 2026-10-23 | Decisões da entrevista incorporadas (D01–D18); paleta, wireframe, bilíngue, 3 páginas, URL limpa; quiz removido do escopo |
 | 1.1 | 2026-10-23 | LinkedIn e GitHub confirmados em D10; pendências 1 e 2 encerradas |
 | 1.2 | 2026-10-23 | Adicionado canal do WhatsApp na home ("Onde me encontrar") e na página Contato (PT e EN) a pedido do usuário |
+| 1.3 | 2026-10-23 | Atualização de identidade visual (D12/D13): títulos com gradiente vibrante, grid com luz radial de fundo, sintaxe colorida no terminal, badge com pulso de status e ícones autênticos de marca nos cartões |
