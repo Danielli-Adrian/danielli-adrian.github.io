@@ -27,8 +27,8 @@ O site deve ser rápido, acessível, bilíngue (PT/EN) e visualmente coerente co
 | D07 | Projetos | Adicionados depois — o site precisa funcionar vazio |
 | D08 | Seções | **Sobre mim, Projetos, Contato** (somente) |
 | D09 | Currículo | Botão desativado até existir o PDF |
-| D10 | Links | **LinkedIn:** `https://www.linkedin.com/in/adrian-danielli/` · **GitHub:** `https://github.com/Danielli-Adrian` · **WhatsApp:** `https://wa.me/5599999999999` |
-| D11 | Textos | Fornecidos depois; sem redação por enquanto |
+| D10 | Links | **LinkedIn:** `https://www.linkedin.com/in/adrian-danielli/` · **GitHub:** `https://github.com/Danielli-Adrian` · **WhatsApp:** `https://wa.me/5554999298829` |
+| D11 | Textos | **Definidos** (21 anos, cidade do interior, Ciência da Computação, desenvolvimento de software) |
 | D12 | Estilo | **Técnico vibrante e criativo** (gradiente esmeralda/ciano, mesh glow e grid sutil) |
 | D13 | Paleta | **Esmeralda tech (`#3DDC97`) + Ciano elétrico (`#00E5FF`)**, fundo escuro com glow |
 | D14 | Tema | Escuro padrão + alternador claro/escuro |
@@ -307,7 +307,7 @@ Sem fontes externas — decisão de performance e privacidade.
 1. ~~URL do LinkedIn~~ — **confirmado:** `https://www.linkedin.com/in/adrian-danielli/`.
 2. ~~URL do GitHub~~ — **confirmado:** `https://github.com/Danielli-Adrian`.
 3. E-mail público de contato.
-4. Textos de bio (PT e EN).
+4. ~~Textos de bio (PT e EN)~~ — **preenchido:** 21 anos, natural do interior, cursando Ciência da Computação.
 5. Foto profissional.
 6. Projetos (título, contexto, imagem, link).
 7. Currículo em PDF.
@@ -323,3 +323,4 @@ Sem fontes externas — decisão de performance e privacidade.
 | 1.1 | 2026-10-23 | LinkedIn e GitHub confirmados em D10; pendências 1 e 2 encerradas |
 | 1.2 | 2026-10-23 | Adicionado canal do WhatsApp na home ("Onde me encontrar") e na página Contato (PT e EN) a pedido do usuário |
 | 1.3 | 2026-10-23 | Atualização de identidade visual (D12/D13): títulos com gradiente vibrante, grid com luz radial de fundo, sintaxe colorida no terminal, badge com pulso de status e ícones autênticos de marca nos cartões |
+| 1.4 | 2026-10-23 | Número do WhatsApp atualizado para (54) 999298829 e textos reais de apresentação/bio inseridos nas páginas PT e EN |
