@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0B0F14"/>
+  <rect width="1200" height="6" fill="#3DDC97"/>
+
+  <g stroke="#24303F" stroke-width="1">
+    <line x1="96" y1="120" x2="1104" y2="120"/>
+    <line x1="96" y1="500" x2="1104" y2="500"/>
+  </g>
+
+  <text x="96" y="250" font-family="system-ui, 'Segoe UI', Arial, sans-serif" font-size="76" font-weight="700" fill="#E6EDF3" letter-spacing="-2">Adrian Danielli</text>
+
+  <text x="96" y="310" font-family="ui-monospace, Consolas, monospace" font-size="26" fill="#93A1B1" letter-spacing="5">CIENTISTA DA COMPUTAÇÃO</text>
+
+  <circle cx="102" cy="546" r="7" fill="#3DDC97"/>
+  <text x="124" y="554" font-family="ui-monospace, Consolas, monospace" font-size="24" fill="#3DDC97">danielli-adrian.github.io</text>
+</svg>
